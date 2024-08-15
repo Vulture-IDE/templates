@@ -1,4 +1,5 @@
 {
-    "language" : "groovy",
-    "extensions" : "groovy"
+    "default_language" : "groovy",
+    "supported_languages" : "groovy",
+    "language_extensions" : "groovy"
 }
