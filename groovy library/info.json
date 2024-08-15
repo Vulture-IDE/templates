@@ -1,7 +1,7 @@
 {
-    "default_language" : "groovy",
+    "default_language" : "Groovy",
     "language_extensions" : [
         "groovy"],
     "supported_languages" : [
-        "groovy"]
+        "Groovy"]
 }
