@@ -8,4 +8,5 @@ repositories {
 }
 
 dependencies {
+    // Vulture IDE dosen't support adding dependencies 
 }
